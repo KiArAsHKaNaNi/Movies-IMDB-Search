@@ -1,3 +1,6 @@
+# 🎬 Movie Search App (IMDB API)
+
+A simple web application that allows users to search for movies using the [IMDB API](https://rapidapi.com/apidojo/api/imdb8).  
 This project demonstrates working with **JavaScript**, **Axios**, **async/await**, and **DOM manipulation** to fetch and display results dynamically.
 
 ---
