@@ -1,0 +1,21 @@
+
+/* 
+#movies .col-md-3 .card{
+    height: 450px;
+} */
+
+#movies .col-md-3 img{
+    width:100%;
+    /* height: 360px; */
+}
+
+@media(min-width:767px){
+    #movies .col-md-3 .card{
+        height: 450px;
+    }
+    
+    #movies .col-md-3 img{
+        width:100%;
+        height: 360px;
+    }
+}
